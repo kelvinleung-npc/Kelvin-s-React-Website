@@ -2,8 +2,8 @@ import React from "react";
 
 function Opener () {
     return(    
-    <div class="opener">
-    <p class = "openingText">Hey it's Kelvin! <br/>
+    <div className="opener">
+    <p className = "openingText">Hey it's Kelvin! <br/>
                     Software Developer</p>
     </div>
     );
