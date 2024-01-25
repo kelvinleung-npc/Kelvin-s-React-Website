@@ -1,9 +1,9 @@
 {
   "name": "kelvins-website",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "homepage": "https://kelvinleung-npc.github.io/Kelvin-s-React-Website",
   "description": "",
-  "main": "index.js",
+  "main": "index.html",
   "dependencies": {
     "abab": "^2.0.6",
     "accepts": "^1.3.8",
