@@ -48,6 +48,7 @@
     "available-typed-arrays": "^1.0.5",
     "axe-core": "^4.7.0",
     "axobject-query": "^3.2.1",
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.0",
     "babel-jest": "^27.5.1",
     "babel-loader": "^8.3.0",
     "babel-plugin-istanbul": "^6.1.1",
@@ -872,7 +873,11 @@
     "yocto-queue": "^0.1.0"
   },
   "devDependencies": {
-    "gh-pages": "^6.1.1"
+    "gh-pages": "^6.1.1",
+    "@babel/core": "7.22.5",
+    "@babel/eslint-parser": "7.22.5",
+    "@babel/plugin-proposal-private-property-in-object": "7.21.11",
+    "@babel/preset-env": "7.22.5"
   },
   "scripts": {
     "predeploy": "npm run build",
@@ -882,6 +887,9 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
+  "plugins": [
+    ["@babel/plugin-proposal-private-property-in-object", { "loose": true }]
+  ],
   "author": "",
   "license": "ISC",
   "browserslist": {
