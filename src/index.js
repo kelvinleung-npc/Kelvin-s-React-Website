@@ -23,7 +23,7 @@ import {
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
-    <RouterProvider router ={router}/>
+  <App/>
 );
 
 //ReactDOM.render(<App />, document.getElementById("root"));
