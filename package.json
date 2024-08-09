@@ -1,7 +1,7 @@
 {
   "name": "kelvins-website",
   "version": "0.1.0",
-  "homepage":"https://kelvinleung-npc.github.io/Kelvin-s-React-Website",
+  "homepage": "https://kelvinleung-npc.github.io/Kelvin-s-React-Website",
   "private": true,
   "main": "index.html",
   "dependencies": {
