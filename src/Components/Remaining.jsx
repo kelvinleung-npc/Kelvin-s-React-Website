@@ -61,7 +61,7 @@ function WorkExperience() {
                     •	Created dashboards for data analytics using power BI, matplotlib, and D3.js <br/>
                     •	Worked with the 3rd party API Cloudpoint in inventory management <br/>
                     <br/>
-                    Coast Capital Federal Credit Union | July 2018 – January 2019 <br/>
+                    Coast Capital Federal Credit Union | January 2017 – June 2019 <br/>
                     Member Service Representative <br/>
                     •	Assisted members with banking transactions and concerns <br/>
                     •	Utilized given resources and independently problem solved <br/>
