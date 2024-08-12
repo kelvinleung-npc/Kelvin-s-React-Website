@@ -33,6 +33,15 @@ function Certifications() {
         <div className = "container-margins" id = "Certifications">
         <h1 className = "introText">Certifications</h1>
         <div className = "img-text-flexbox">
+        <img src="PowerBi.png" class = "img"/>
+        <p className = "Text">Power BI Data Analyst (PL-300) Certificate <br/>
+                            Credential ID: 1A058D3C9A4682FA <br/>
+                            Certification number: 858150-33D5Q5 <br/>
+                            Earned on: March 14, 2024 <br/>
+                            Expires on: March 14, 2025 <br/>
+            </p>
+        </div>
+        <div className = "img-text-flexbox">
         <img src="Amazon-Warehouse-Services.png" class = "img"/>
         <p className = "Text">AWS Certified Developer – Associate <br/>
                         Amazon Web Services Training and Certification <br/>
@@ -61,7 +70,12 @@ function WorkExperience() {
                     •	Created dashboards for data analytics using power BI, matplotlib, and D3.js <br/>
                     •	Worked with the 3rd party API Cloudpoint in inventory management <br/>
                     <br/>
-                    Coast Capital Federal Credit Union | January 2017 – June 2019 <br/>
+                </p>
+            </div>
+            <div className = "img-text-flexbox">
+                <img src="CoastCapital.png" class = "img"/>
+                <p className = "Text">
+                    Coast Capital Federal Credit Union | July 2018 – January 2019 <br/>
                     Member Service Representative <br/>
                     •	Assisted members with banking transactions and concerns <br/>
                     •	Utilized given resources and independently problem solved <br/>
